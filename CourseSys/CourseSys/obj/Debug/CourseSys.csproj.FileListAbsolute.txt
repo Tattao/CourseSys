@@ -1,0 +1,12 @@
+C:\Users\Zhuowei\documents\visual studio 2013\Projects\CourseSys\CourseSys\bin\Debug\CourseSys.exe.config
+C:\Users\Zhuowei\documents\visual studio 2013\Projects\CourseSys\CourseSys\bin\Debug\CourseSys.exe
+C:\Users\Zhuowei\documents\visual studio 2013\Projects\CourseSys\CourseSys\bin\Debug\CourseSys.pdb
+C:\Users\Zhuowei\documents\visual studio 2013\Projects\CourseSys\CourseSys\obj\Debug\CourseSys.csprojResolveAssemblyReference.cache
+C:\Users\Zhuowei\documents\visual studio 2013\Projects\CourseSys\CourseSys\obj\Debug\CourseSys.Login.resources
+C:\Users\Zhuowei\documents\visual studio 2013\Projects\CourseSys\CourseSys\obj\Debug\CourseSys.Properties.Resources.resources
+C:\Users\Zhuowei\documents\visual studio 2013\Projects\CourseSys\CourseSys\obj\Debug\CourseSys.Sindex.resources
+C:\Users\Zhuowei\documents\visual studio 2013\Projects\CourseSys\CourseSys\obj\Debug\CourseSys.Sstatus.resources
+C:\Users\Zhuowei\documents\visual studio 2013\Projects\CourseSys\CourseSys\obj\Debug\CourseSys.Tindex.resources
+C:\Users\Zhuowei\documents\visual studio 2013\Projects\CourseSys\CourseSys\obj\Debug\CourseSys.csproj.GenerateResource.Cache
+C:\Users\Zhuowei\documents\visual studio 2013\Projects\CourseSys\CourseSys\obj\Debug\CourseSys.exe
+C:\Users\Zhuowei\documents\visual studio 2013\Projects\CourseSys\CourseSys\obj\Debug\CourseSys.pdb
